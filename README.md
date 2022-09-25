@@ -13,6 +13,7 @@
 * Hibernate
 * MySQL
 * Swagger
+* AWS
 
 ## Modules
 
